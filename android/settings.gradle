@@ -1,0 +1,3 @@
+rootProject.name = 'completeAuthentication'
+
+include ':app'
